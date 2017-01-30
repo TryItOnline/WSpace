@@ -1,6 +1,6 @@
 module VM where
 
-import IO
+import System.IO
 
 {- Stack machine for running whitespace programs -}
 
